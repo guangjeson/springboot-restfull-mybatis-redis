@@ -1,10 +1,10 @@
-package com.gd.itcarrier.api.util;
+package com.gd.itcarrier.helloworld.util;
 
 /**
  * 应用系统级别的错误码
  * @author yuzg
  */
-public enum GlobalErrorInfoEnum implements ErrorInfo{
+public enum GlobalErrorInfoEnum implements ErrorInfoInterface{
     SUCCESS("0", "success"),
     NOT_FOUND("-1", "service not found");
 

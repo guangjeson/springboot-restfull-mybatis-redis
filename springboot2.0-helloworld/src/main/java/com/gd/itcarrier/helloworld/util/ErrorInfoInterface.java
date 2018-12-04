@@ -1,4 +1,4 @@
-package com.gd.itcarrier.api.util;
+package com.gd.itcarrier.helloworld.util;
 
 /**
  * 错误码接口

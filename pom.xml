@@ -9,7 +9,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>springboot-api</module>
+		<module>springboot2.0-helloworld</module>	<!-- spring2.1 入门 -->
+		<module>springboot-api</module>			<!-- spring2.1 集成mybatis、redis,进行API开发 -->
 	</modules>
 
 </project>

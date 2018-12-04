@@ -1,16 +1,13 @@
-package com.gd.itcarrier.api;
+package com.gd.itcarrier.helloworld;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 /**
  * 服务应用启动类
  * @author yuzg
  *
  */
 @SpringBootApplication
-@MapperScan("com.gd.itcarrier.api.dao")
 public class Application {
 
     public static void main(String[] args) {

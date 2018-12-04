@@ -1,4 +1,4 @@
-package com.gd.itcarrier.api.util;
+package com.gd.itcarrier.helloworld.util;
 
 /**
  * 返回体
@@ -21,7 +21,7 @@ public class ResultBody {
     private Object result;
     public ResultBody() {
     }
-    public ResultBody(ErrorInfo errorInfo) {
+    public ResultBody(ErrorInfoInterface errorInfo) {
         this.code = errorInfo.getCode();
         this.message = errorInfo.getMessage();
     }
