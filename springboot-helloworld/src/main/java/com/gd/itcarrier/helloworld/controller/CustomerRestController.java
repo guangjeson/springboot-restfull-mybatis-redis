@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.gd.itcarrier.helloworld.domain.Customer;
+import com.gd.itcarrier.helloworld.entity.Customer;
 
 
 /**

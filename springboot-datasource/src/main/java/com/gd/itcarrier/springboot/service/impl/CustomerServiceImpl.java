@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
 import com.gd.itcarrier.springboot.dao.CustomerDao;
-import com.gd.itcarrier.springboot.domain.Customer;
+import com.gd.itcarrier.springboot.entity.Customer;
 import com.gd.itcarrier.springboot.service.CustomerService;
 
 import java.util.List;

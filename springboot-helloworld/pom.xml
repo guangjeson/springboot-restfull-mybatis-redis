@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.gd.itcarrier.api</groupId>
-    <artifactId>springboot2.0-helloworld</artifactId>
+    <artifactId>springboot-helloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot2入门 </name>
 

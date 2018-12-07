@@ -1,4 +1,4 @@
-package com.gd.itcarrier.helloworld.domain;
+package com.gd.itcarrier.helloworld.entity;
 
 import java.io.Serializable;
 

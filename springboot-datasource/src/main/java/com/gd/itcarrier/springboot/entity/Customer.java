@@ -1,4 +1,4 @@
-package com.gd.itcarrier.api.domain;
+package com.gd.itcarrier.springboot.entity;
 
 import java.io.Serializable;
 

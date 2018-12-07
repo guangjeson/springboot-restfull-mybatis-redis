@@ -2,7 +2,7 @@ package com.gd.itcarrier.api.service;
 
 import java.util.List;
 
-import com.gd.itcarrier.api.domain.Customer;
+import com.gd.itcarrier.api.entity.Customer;
 
 /**
  * 逻辑处理接口类

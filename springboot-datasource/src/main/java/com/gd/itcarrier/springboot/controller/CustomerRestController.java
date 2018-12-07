@@ -3,7 +3,7 @@ package com.gd.itcarrier.springboot.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import com.gd.itcarrier.springboot.domain.Customer;
+import com.gd.itcarrier.springboot.entity.Customer;
 import com.gd.itcarrier.springboot.service.CustomerService;
 import com.gd.itcarrier.springboot.util.ResultBody;
 

@@ -1,7 +1,8 @@
 package com.gd.itcarrier.api.dao;
 
 import org.apache.ibatis.annotations.Param;
-import com.gd.itcarrier.api.domain.Customer;
+
+import com.gd.itcarrier.api.entity.Customer;
 
 import java.util.List;
 

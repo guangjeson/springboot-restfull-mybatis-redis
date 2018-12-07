@@ -2,7 +2,7 @@ package com.gd.itcarrier.springboot.service;
 
 import java.util.List;
 
-import com.gd.itcarrier.springboot.domain.Customer;
+import com.gd.itcarrier.springboot.entity.Customer;
 
 /**
  * 逻辑处理接口类

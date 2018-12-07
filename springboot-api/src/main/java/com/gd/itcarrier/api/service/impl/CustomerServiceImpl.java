@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.alibaba.fastjson.JSON;
 import com.gd.itcarrier.api.dao.CustomerDao;
-import com.gd.itcarrier.api.domain.Customer;
+import com.gd.itcarrier.api.entity.Customer;
 import com.gd.itcarrier.api.service.CustomerService;
 
 import java.util.List;
